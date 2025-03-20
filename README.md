@@ -15,26 +15,8 @@ The primary objective of this project is to develop a robust model that leverage
 
 The project utilizes flight-related data obtained from [Kaggle](). The dataset includes essential details such as flight prices, airlines, departure and arrival times, and other relevant information. The dataset is split into a training set and a test set, allowing the model to undergo training on the former and be subsequently evaluated on the latter.
 
-## Libraries Used
-
-   ```shell
-   pip install pandas
-   ```
-   ```shell
-   pip install numpy
-   ```
-   ```shell
-   pip install matplotlib
-   ```
-   ```shell
-   pip install seaborn
-   ```
-   ```shell
-   pip install jupyter
-   ```
 
 ## How to Download and Use this Project
-
 
 1. Clone this repository using git [Clone](https://github.com/Vetrivel07/Flight-Price-Prediction.git)
 2. Install the required libraries using
